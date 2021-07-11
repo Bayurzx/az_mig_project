@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=storageaccountnotifa72a;AccountKey=hnxEalAPPO2Rq+xxxxxxxxxxxxxxx/xxxxxxxxxxxxxxxxx/xxxxxxxxxxxxxxxxxxxxxxxx==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "notificationqueue_SERVICEBUS": "Endpoint=sb://notificationqueue.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=PttkwZfk+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx=",
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "2a9c814f-e245-453f-ba5b-xxxxxxxxxxxxxxxxx",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=2a9c814f-e245-453f-ba5b-xxxxxxxxxxxx;IngestionEndpoint=https://eastus-8.in.applicationinsights.azure.com/",
+    "SENDGRIDFAKE_API_KEY": "SGF.xxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  "ConnectionStrings": {}
+}
